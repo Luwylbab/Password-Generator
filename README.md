@@ -10,7 +10,7 @@ This repo contains the content for week 3
 
 ## Installation
 
-- Link to deployed website: 
+- Link to deployed website: https://luwylbab.github.io/Password-Generator/
 
 - Get SSH key from https://github.com/Luwylbab/Password-Generator
 
